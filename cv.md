@@ -29,7 +29,7 @@ ______
 - Sass, Bootstrap, Tailwind;
 - Adobe Photoshop, Figma, Adobe Illustrator.
 ### Code Examples:
-```python
+```javascript
 function sendToLocalStorage() {
 	
 	const obj = {
@@ -46,6 +46,20 @@ function sendToLocalStorage() {
 document.querySelector('.b-8').addEventListener('click', makeEight);
 ```
 ______
+### Education:
+- Kazan State University of Economics:
+    - Economist;
+- ITGirlschool
+    - HTML/CSS;
+    - JavaScript;
+    - React.
+_________
+
+### Languages:
+- Russian - native speaker;
+- Tatar - native speaker;
+- English - A2.
+
 
 #### Work Experience:
 - Participated in an internship to create the Interview Trainer website
