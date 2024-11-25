@@ -21,3 +21,34 @@ I have quite a lot of experience in the field of finance, and also have experien
 UI design, I will be glad to use my previous experience in my new field.
 In my free time, I develop my self-development, as well as my physical health.
 ______
+
+### My Skills:
+-  JavaScript, HTML5 CSS3,
+-  Git;
+- React, Next.js;
+- Sass, Bootstrap, Tailwind;
+- Adobe Photoshop, Figma, Adobe Illustrator.
+### Code Examples:
+```javascript
+function sendToLocalStorage() {
+	
+	const obj = {
+		fruit: "Яблоко",
+		color: "Красное",
+		quantity: 10,
+		price: 199
+	};
+
+	window.localStorage.setItem('newObject', JSON.stringify(obj));
+	
+}
+
+document.querySelector('.b-8').addEventListener('click', makeEight);
+```
+______
+
+#### Work Experience:
+- Participated in an internship to create the Interview Trainer website
+- Developed a SPA pet project using React
+- Website for a chiropractor.
+_____
