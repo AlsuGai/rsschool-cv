@@ -29,7 +29,7 @@ ______
 - Sass, Bootstrap, Tailwind;
 - Adobe Photoshop, Figma, Adobe Illustrator.
 ### Code Examples:
-```javascript
+```python
 function sendToLocalStorage() {
 	
 	const obj = {
